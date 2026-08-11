@@ -145,7 +145,7 @@ Anotações e exercícios voltados aos fundamentos de redes, sistemas e seguran�
 
 <div align="center">
 
-<a href="https://github.com/SEU_USUARIO">
+<a href="https://github.com/Stephanny-V">
   <img src="https://img.shields.io/badge/GitHub-2A102C?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 

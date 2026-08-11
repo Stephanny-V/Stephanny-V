@@ -4,13 +4,6 @@
   width="100%"
   src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,45:2A102C,100:7A1F45&height=220&section=header&text=Stephanny&fontSize=55&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn"
 />
-
-<img
-  src="https://github.com/SEU_USUARIO.png"
-  width="180"
-  alt="Foto de perfil"
-/>
-
 <br>
 
 ## Olá! Seja bem-vindo(a) ao meu perfil 👋
@@ -139,14 +132,12 @@ Anotações e exercícios voltados aos fundamentos de redes, sistemas e seguran�
 
 ## Objetivos para 2026
 
-- Aprimorar meus conhecimentos em **JavaScript**
+- Aprofundar meus conhecimentos em Cibersegurança
 - Aprender **React**
-- Estudar **Node.js**
+- Aprender **Node.js**
 - Desenvolver projetos completos
 - Aprofundar meus conhecimentos em Linux
-- Praticar fundamentos de Cibersegurança
-- Contribuir para projetos Open Source
-- Conquistar minha primeira oportunidade na área de Tecnologia
+- Buscar minha primeira oportunidade na área de Tecnologia
 
 ---
 
@@ -158,11 +149,11 @@ Anotações e exercícios voltados aos fundamentos de redes, sistemas e seguran�
   <img src="https://img.shields.io/badge/GitHub-2A102C?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/in/SEU_LINKEDIN">
+<a href="https://www.linkedin.com/in/stephanny-dev-sys/">
   <img src="https://img.shields.io/badge/LinkedIn-7A1F45?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:SEU_EMAIL">
+<a href="mailto:stephanny.dev.sys@gmail.com">
   <img src="https://img.shields.io/badge/Email-5B2149?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
